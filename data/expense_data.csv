@@ -1,0 +1,13 @@
+Date,Category,Amount,Payment_Method,Note
+2026-01-01,Food,250,UPI,Lunch
+2026-01-02,Travel,500,Cash,Bus
+2026-01-03,Shopping,1200,Card,Clothes
+2026-01-04,Bills,1500,UPI,Electricity Bill
+2026-01-05,Entertainment,700,Card,Movie
+2026-01-06,Food,300,Cash,Dinner
+2026-02-01,Travel,600,UPI,Train
+2026-02-03,Food,450,Card,Snacks
+2026-02-05,Bills,1800,Cash,Internet Bill
+2026-03-01,Shopping,2000,UPI,Mobile
+2026-03-02,Food,350,Card,Breakfast
+2026-03-03,Travel,750,Cash,Cab
